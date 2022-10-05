@@ -12,4 +12,4 @@ hello git ! hello zhku!
 hello git ! hello zhku!
 hello git ! hello zhku!
 hello git ! hello zhku! master test
-hello git ! hello zhku!
+hello git ! hello zhku! hot-fix test
